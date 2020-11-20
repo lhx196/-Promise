@@ -1,0 +1,22 @@
+{
+  "name": "-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "promises-aplus-tests promise.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhx196/-Promise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhx196/-Promise/issues"
+  },
+  "homepage": "https://github.com/lhx196/-Promise#readme",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
